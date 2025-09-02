@@ -197,34 +197,184 @@
         //  $g = (array)$g;
        
 
-         $a = (unset)$a;
-         $b = (unset)$b;
-         $c = (unset)$c;
-         $d = (unset)$d;
-         $e = (unset)$e;
-         $f = (unset)$f;
-         $g = (unset)$g;
+        //  $a = (unset)$a;
+        //  $b = (unset)$b;
+        //  $c = (unset)$c;
+        //  $d = (unset)$d;
+        //  $e = (unset)$e;
+        //  $f = (unset)$f;
+        //  $g = (unset)$g;
        
               
-        var_dump($a);
-        echo "<br>";
-        var_dump($b);
-        echo "<br>";
-        var_dump($c);   
-        echo "<br>";
-        var_dump($d);
-        echo "<br>";
-        var_dump($e);
-        echo "<br>";
-        var_dump($f);
-        echo "<br>";
-        var_dump($g);
-        echo "<br>";
+        // var_dump($a);
+        // echo "<br>";
+        // var_dump($b);
+        // echo "<br>";
+        // var_dump($c);   
+        // echo "<br>";
+        // var_dump($d);
+        // echo "<br>";
+        // var_dump($e);
+        // echo "<br>";
+        // var_dump($f);
+        // echo "<br>";
+        // var_dump($g);
+        // echo "<br>";
+
+        // $pi = pi();
+        // echo $pi;
+
+
+        //     $minNumber = min(1, 5, 3, 9, 2);
+
+        //     echo $minNumber; "<br>";
+        //     echo $maxNumber; "<br>";
+
+        //     $num = 5;
+        //     echo abs ($num), "<br>";
+
+        //     $sqrt = sqrt(64);
+        //     echo $sqrt; "<br>";
+            
+        //     $rounded = round(3.14);
+        //     echo $rounded; "<br>";
+
+
+
+
+        //     echo PHP_INT_MAX; "<br>";
+        //     echo PHP_INT_MIN; "<br>";
+        //     echo PHP_INT_SIZE; "<br>";
+        //     echo rand(5,30); "<br>"
+
+        // define("GREETING", "Welcome to PHP!");
+        // echo GREETING;
+        
+        // function test () {
+        //     echo $xl
+        // }
+        // test();
+
+
+        // //aridmetic operators
+        // echo 6 + 9 + 69;
+        // echo 6 - 9 - 69;
+        // echo 6 * 9 * 69;
+        // echo 6 / 9 / 69;
+        // echo 6 % 9 % 69;
+        // echo 6 ** 9 ** 69;
+        
+        
+        //assignment operators
+        // $x = 5;
+        // $x += 10;
+        // $x -= 10;
+        // $x *= 10;
+        // $x /= 10;
+        // $x %= 10;
+        // $x **= 10;
+
+        
+        // echo $x;
+
+        //comparison operators
+        // var_dump(6 == "6");
+
+        // //indentical
+        // var_dump(6 === "6");
+
+        // //not equal
+        // var_dump(6 != "6");
+        
+
+        // // greater than
+        // var_dump(6 > 4);
+
+        // //less than
+        // var_dump(6 >= 0());
+
+        // //greater than or equal to
+        // var_dump(6 <= 0);
+
+        // //less than or equal to
+        // var_dump(6 < 0);
+
+        // //spaceship
+        // echo 1 <=> 1;
+        // echo 1 <=> 2;
+        // echo 2 <=> 1;
+        
+        //increment / decrement operators
+        //  $x = 5;
+        //  echo ++$x; //pre-increment
+        //  echo $x++; //post-increment
+        //  echo --$x; //pre-decrement
+        //  echo $x--; //post-decrement      
+
+        //logical operators
+        // var_dump(true and false);
+        // echo "<br>";
+        // vardump(6 == "6" and 5 > 2);
+        // echo"<br>";
+
+        // //or
+        // var_dump(true and false);
+        // echo "<br>";
+
+        // //xor
+        // var_dump(false);    
+        // echo "<br>";
+
+        // //not
+        // var_dump(false);
+        // echo "<br>";
+
+        // // &&
+        // var_dump(true && false);
+        // echo "<br>";
+
+        // var_dump(falseor false);
+        // echo "<br>";
+        // var_dump(6 == "6"and 5 > 2);
+        // echo "<br>";
+
+        // //xor   
+        // var_dump(true and false);
+        // echo "<br>";
+        // var_dump(6 == "6" xor 5 > 2);
+        // echo "<br>";
+
+        // //not
+        // var_dump(!true);
+        // echo "<br>";
+
+        // echo "Hello" . "World!";
+        // $x = "Hello";
+        // $x = $x . " World!";
+        // $x = $x . "";
 
 
         
 
         
+
+
+
+
+
+
+
+
+            
+
+
+
+            
+    
+
+
+
+
 
 
 
